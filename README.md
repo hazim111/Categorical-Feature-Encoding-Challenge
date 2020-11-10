@@ -4,11 +4,13 @@
 
 1. You can get the data for this module from: https://www.kaggle.com/c/cat-in-the-dat/data 
 
-2. Put the data in the input folder
+2. Create an "input" and "models" folder
 
-3. Change the directories in config.py according to your locations
+3. Put the data in the input folder
 
-4. You can add the models or hypertune them in model_dispatcher.py
+4. Change the directories in config.py according to your locations
+
+5. You can add the models or hypertune them in model_dispatcher.py
 
 #Model running
 
