@@ -1,5 +1,7 @@
 # Categorical-Feature-Encoding-Challenge
 
+Note: I have used VScode for this module.  
+
 #Preproceesing
 
 1. You can get the data for this module from: https://www.kaggle.com/c/cat-in-the-dat/data 
